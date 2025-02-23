@@ -19,7 +19,7 @@ print "the total of even numbers are: $even";
 print "the total of odd numbers are: $odd";
 
 $evenOrOdd = array("even"=>$even, "odd" => $odd);
-    
+?>
 
 </body>
 </html>
